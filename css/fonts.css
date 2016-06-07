@@ -1,0 +1,20 @@
+
+@font-face {
+    font-family: 'NimbusSanTConBold';
+    src: url('../fonts/nimbstb.eot'); 
+    src: url('../fonts/nimbstb.eot?#iefix') format('embedded-opentype'),               
+         url('../fonts/nimbstb.ttf')  format('truetype'),
+         url('../fonts/nimbstb.woff') format('woff');    
+}
+
+@font-face {
+    font-family: 'HelveticaNeueCyr';
+    src: url(../fonts/HelveticaNeueCyr-Medium.otf);  
+    src: url(../fonts/HelveticaNeueCyr-Medium.woff);  
+}
+
+@font-face {
+    font-family: 'HelveticaNeueCyr Light';
+    src: url(../fonts/HelveticaNeueCyr-Light.otf); 
+    src: url(../fonts/HelveticaNeueCyr-Light.woff); 
+}
